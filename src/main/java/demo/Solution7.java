@@ -1,6 +1,7 @@
 package main.java.demo;
 
 /**
+ * 第七题 考虑越界和为0的情况
  * @author hbh
  * @version 1.0.0
  * @since 2017/11/2
@@ -8,21 +9,17 @@ package main.java.demo;
 public class Solution7 {
     
     public int reverse(int x) {
-        if (x == 0) {
-            return 0;
-        } else if (x > 0) {
-            int k = x % 10;
-            while ((x /= 10) > 0) {
-                k = k * 10 + x % 10;
+        int y = 0;
+        int n;
+        while (x != 0) {
+            n = x%10;
+            if (y > Integer.MAX_VALUE/10 || y < Integer.MIN_VALUE/10 ) {
+                return 0;
             }
-            return k;
-        } else {
-            return 0;
+            y = y*10 +n;
+            x /=10;
         }
-    }
-    
-    public static void main(String[] args) {
-        System.out.println(new Solution7().reverse(123));
+        return y;
     }
     
 }
