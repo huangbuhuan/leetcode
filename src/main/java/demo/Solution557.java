@@ -12,24 +12,27 @@ public class Solution557 {
         if (s == null || s.length() == 0 || s.length() == 1) {
             return s;
         }
-        String[] strings = s.split(" ");
-        StringBuilder sb = new StringBuilder();
-        String str = "";
-        for (int i = 0, length = strings.length; i < length; i++) {
-            
-            for (int j = strings[i].length() - 1; j >= 0 ; j--) {
-                str += strings[i].charAt(j);
+        char[] chars = s.toCharArray();
+        int start = 0;
+        for (int i = 0; i < chars.length; i++) {
+            if (chars[i] == ' ') {
+                reverse(chars, start, i - 1);
+                start = i + 1;
             }
-            if (i == length - 1) {
-                sb.append(str);
-            } else {
-                sb.append(str).append(" ");
-            }
-            
-            str = "";
             
         }
-        return sb.toString();
+        reverse(chars, start, chars.length - 1);
+        return new String(chars);
+    }
+    
+    private void reverse(char[] chars, int start, int end) {
+        while (start < end) {
+            char temp = chars[start];
+            chars[start] = chars[end];
+            chars[end] = temp;
+            start++;
+            end--;
+        }
     }
     
 }
