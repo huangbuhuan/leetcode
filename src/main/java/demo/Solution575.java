@@ -5,6 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
+ * 第575题，求姐姐最大能获得糖果的种类
  * @author hbh
  * @version 1.0.0
  * @since 2017/11/5
