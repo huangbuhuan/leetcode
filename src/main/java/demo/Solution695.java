@@ -8,6 +8,11 @@ package main.java.demo;
 public class Solution695 {
     
     public int maxAreaOfIsland(int[][] grid) {
+        for (int i = 0; i < grid.length; i++) {
+            for (int j = 0; j <grid[0].length; j++) {
+                
+            }
+        }
         return 1;
     }
     
