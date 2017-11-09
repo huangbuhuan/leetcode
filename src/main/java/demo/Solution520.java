@@ -19,7 +19,7 @@ public class Solution520 {
         if (count == word.length() || count ==0) {
             return true;
         } else if (count == 1 && word.charAt(0) <= 90) {
-            return true
+            return true;
         }
         return false;
     }

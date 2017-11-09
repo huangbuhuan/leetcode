@@ -17,156 +17,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution637.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution637.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution693.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution693.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution485.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution485.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution690.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution690.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution695.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution695.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution226.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution226.java">
+      <file leaf-file-name="Solution696.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution696.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="20" />
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution717.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution717.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution520.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution520.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution617.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution617.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Integer.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23076">
-              <caret line="1345" column="22" lean-forward="false" selection-start-line="1345" selection-start-column="22" selection-end-line="1345" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#60784#0" expanded="false" />
-                <element signature="e#6101#6102#0" expanded="false" />
-                <element signature="e#6171#6172#0" expanded="false" />
-                <element signature="e#7967#7968#0" expanded="false" />
-                <element signature="e#8013#8014#0" expanded="false" />
-                <element signature="e#9482#9483#0" expanded="false" />
-                <element signature="e#9528#9529#0" expanded="false" />
-                <element signature="e#10902#10903#0" expanded="false" />
-                <element signature="e#10948#10949#0" expanded="false" />
-                <element signature="e#15724#15725#0" expanded="false" />
-                <element signature="e#15779#15780#0" expanded="false" />
-                <element signature="e#32532#32533#0" expanded="false" />
-                <element signature="e#32566#32567#0" expanded="false" />
-                <element signature="e#33488#33489#0" expanded="false" />
-                <element signature="e#33522#33523#0" expanded="false" />
-                <element signature="e#33736#33737#0" expanded="false" />
-                <element signature="e#33771#33772#0" expanded="false" />
-                <element signature="e#33891#33892#0" expanded="false" />
-                <element signature="e#33919#33920#0" expanded="false" />
-                <element signature="e#34168#34169#0" expanded="false" />
-                <element signature="e#34202#34203#0" expanded="false" />
-                <element signature="e#34414#34415#0" expanded="false" />
-                <element signature="e#34449#34450#0" expanded="false" />
-                <element signature="e#34664#34665#0" expanded="false" />
-                <element signature="e#34700#34701#0" expanded="false" />
-                <element signature="e#35161#35162#0" expanded="false" />
-                <element signature="e#35199#35200#0" expanded="false" />
-                <element signature="e#35486#35487#0" expanded="false" />
-                <element signature="e#35532#35533#0" expanded="false" />
-                <element signature="e#35824#35825#0" expanded="false" />
-                <element signature="e#35852#35853#0" expanded="false" />
-                <element signature="e#37816#37817#0" expanded="false" />
-                <element signature="e#37859#37860#0" expanded="false" />
-                <element signature="e#46394#46395#0" expanded="false" />
-                <element signature="e#46458#46459#0" expanded="false" />
-                <element signature="e#47036#47037#0" expanded="false" />
-                <element signature="e#47092#47093#0" expanded="false" />
-                <element signature="e#47615#47616#0" expanded="false" />
-                <element signature="e#47675#47676#0" expanded="false" />
-                <element signature="e#48444#48445#0" expanded="false" />
-                <element signature="e#48491#48492#0" expanded="false" />
-                <element signature="e#56465#56466#0" expanded="false" />
-                <element signature="e#56523#56524#0" expanded="false" />
-                <element signature="e#57650#57651#0" expanded="false" />
-                <element signature="e#57708#57709#0" expanded="false" />
-                <element signature="e#59796#59797#0" expanded="false" />
-                <element signature="e#59824#59825#0" expanded="false" />
-                <element signature="e#60191#60192#0" expanded="false" />
-                <element signature="e#60228#60229#0" expanded="false" />
-                <element signature="e#60595#60596#0" expanded="false" />
-                <element signature="e#60632#60633#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -227,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution226.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution717.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution520.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demo/Solution696.java" />
       </list>
     </option>
   </component>
@@ -886,12 +743,12 @@
       <workItem from="1509976236010" duration="2783000" />
       <workItem from="1510063340680" duration="3233000" />
       <workItem from="1510155138044" duration="3969000" />
-      <workItem from="1510227761133" duration="4966000" />
+      <workItem from="1510227761133" duration="8027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57848000" />
+    <option name="totallyTimeSpent" value="60909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -919,10 +776,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277849" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277849" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24892704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -955,13 +812,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1387,8 +1237,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution520.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="378">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution696.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
           <folding />
         </state>
       </provider>
