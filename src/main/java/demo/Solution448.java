@@ -7,7 +7,7 @@ import java.util.*;
  * @version 1.0.0
  * @since 2017/11/12
  */
-public class Solution512 {
+public class Solution448 {
     
     public List<Integer> findDisappearedNumbers(int[] nums) {
         if (nums == null || nums.length == 0) {
