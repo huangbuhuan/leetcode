@@ -82,11 +82,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution538.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution538.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution538.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution492.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution492.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -232,6 +242,7 @@
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution606.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution638.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution538.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demo/Solution492.java" />
       </list>
     </option>
   </component>
@@ -872,12 +883,12 @@
       <workItem from="1510155138044" duration="3969000" />
       <workItem from="1510227761133" duration="9018000" />
       <workItem from="1510464755912" duration="4041000" />
-      <workItem from="1510479082725" duration="9932000" />
+      <workItem from="1510479082725" duration="10939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75873000" />
+    <option name="totallyTimeSpent" value="76880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="193" y="23" width="1440" height="873" extended-state="0" />
@@ -950,13 +961,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="62" column="60" lean-forward="false" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1426,6 +1430,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution492.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="22" />
           <folding />
         </state>
       </provider>
