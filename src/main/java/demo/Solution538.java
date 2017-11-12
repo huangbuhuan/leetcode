@@ -12,7 +12,7 @@ public class Solution538 {
         if (root == null) {
             return null;
         }
-        
+        add(root);
         return root;
     }
     
