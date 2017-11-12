@@ -7,5 +7,18 @@ package main.java.demo;
  */
 public class Solution171 {
     
+    public int titleToNumber(String s) {
+        int result = 0;
+        int length = s.length();
+        int index = 1;
+        for (int i = length - 1; i >= 0; i--) {
+            if (i != length -1) {
+                index *= 26;
+            }
+            result += (s.charAt(i) - 64) * index;
+            System.out.println(result);
+        }
+        return result;
+    }
     
 }
