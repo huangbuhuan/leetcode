@@ -8,7 +8,16 @@ package main.java.demo;
 public class Solution598 {
     
     public int maxCount(int m, int n, int[][] ops) {
-        return 1;
+        if (ops.length == 0) {
+            return m * n;
+        }
+        int minI = 400000;
+        int minJ = 400000;
+        for (int[] a: ops) {
+            minI = Math.min(a[0], minI);
+            minJ = Math.min(a[1], minJ);
+        }
+        return minI*minJ;
     }
     
 }
