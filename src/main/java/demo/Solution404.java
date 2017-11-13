@@ -8,7 +8,16 @@ package main.java.demo;
 public class Solution404 {
     
     public int sumOfLeftLeaves(TreeNode root) {
-        return 1;
+        if (root == null) {
+            return 0;
+        }
+        int sumOfLeftLeaves = 0;
+        TreeNode leftNode = root.left;
+        if (leftNode != null && leftNode.left == null && leftNode.right == null) {
+            sumOfLeftLeaves += leftNode.val;
+        }
+        sumOfLeftLeaves += sumOfLeftLeaves(leftNode) + sumOfLeftLeaves(root.right);
+        return sumOfLeftLeaves;
     }
     
 }
