@@ -7,7 +7,19 @@ package main.java.demo;
  */
 public class Solution530 {
     
+    int min = Integer.MAX_VALUE;
+    int pre = -1;
+    
     public int getMinimumDifference(TreeNode root) {
-        return 1;
+        if (root == null) {
+            return min;
+        }
+        getMinimumDifference(root.left);
+        if (pre != -1) {
+            min = Math.min(min, root.val - pre);
+        }
+        pre = root.val;
+        getMinimumDifference(root.right);
+        return min;
     }
 }
