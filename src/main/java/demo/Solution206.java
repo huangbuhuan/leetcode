@@ -8,7 +8,23 @@ package main.java.demo;
 public class Solution206 {
     
     public ListNode reverseList(ListNode head) {
-        return null;
+        if (head == null) {
+            return null;
+        }
+        
+        ListNode reverseNode = null;
+        ListNode currentNode = head;
+        ListNode prevNode = null;
+        while (currentNode != null) {
+            ListNode nextNode = currentNode.next;
+            if (nextNode == null) {
+                reverseNode = currentNode;
+            }
+            currentNode.next = prevNode;
+            prevNode = currentNode;
+            currentNode = nextNode;
+        }
+        return reverseNode;
     }
     
 }

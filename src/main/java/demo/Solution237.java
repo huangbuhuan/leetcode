@@ -13,7 +13,7 @@ class ListNode {
 public class Solution237 {
     
     public void deleteNode(ListNode node) {
-            
+        
     }
     
 }
