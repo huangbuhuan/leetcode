@@ -8,7 +8,21 @@ package main.java.demo;
 public class Solution35 {
     
     public int searchInsert(int[] nums, int target) {
-        return 1;
+        if (nums == null || nums.length == 0) {
+            return 0;
+        }
+        int pre = -1;
+        for (int i = 0; i < nums.length; i++) {
+            System.out.println(pre);
+            if (nums[i] == target) {
+                return i;
+            } else if (nums[i] < target) {
+                pre = i;
+            } else {
+                return pre + 1;
+            }
+        }
+        return nums.length;
     }
     
 }
