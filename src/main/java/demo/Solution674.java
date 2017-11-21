@@ -8,7 +8,21 @@ package main.java.demo;
 public class Solution674 {
     
     public int findLengthOfLCIS(int[] nums) {
-        return 1;
+        if (nums == null || nums.length == 0) {
+            return 0;
+        }
+        int longest = 1;
+        int tmp = 1;
+        for (int i = 0; i < nums.length - 1; i++) {
+            if (nums[i] < nums[i + 1]) {
+                if (++tmp > longest) {
+                    longest = tmp;
+                }
+            } else {
+                tmp = 1;
+            }
+        }
+        return longest;
     }
     
 }
