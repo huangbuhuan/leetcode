@@ -30,16 +30,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution35.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution35.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Solution674.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution674.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,13 +100,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution202.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution202.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution202.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution724.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution724.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding>
+                <element signature="e#157#158#0" expanded="true" />
                 <element signature="e#181#182#0" expanded="true" />
               </folding>
             </state>
@@ -157,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/demo/Solution412.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution566.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution669.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution463.java" />
@@ -208,6 +210,7 @@
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution628.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution671.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution202.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demo/Solution724.java" />
       </list>
     </option>
   </component>
@@ -865,12 +868,12 @@
       <workItem from="1511313036593" duration="67000" />
       <workItem from="1511354253553" duration="4415000" />
       <workItem from="1511432616892" duration="3811000" />
-      <workItem from="1511527859643" duration="45000" />
+      <workItem from="1511527859643" duration="71000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124914000" />
+    <option name="totallyTimeSpent" value="124940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="23" width="1440" height="873" extended-state="6" />
@@ -949,13 +952,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution598.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10062">
@@ -1324,6 +1320,17 @@
           <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
             <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution724.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
             <element signature="e#181#182#0" expanded="true" />
           </folding>
         </state>
