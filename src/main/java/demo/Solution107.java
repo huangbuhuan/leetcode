@@ -1,5 +1,7 @@
 package main.java.demo;
 
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -9,8 +11,25 @@ import java.util.List;
  */
 public class Solution107 {
     
+    List<List<Integer>> result = new ArrayList<>();
+    
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
-            return null;
+        helper(root, 0);
+        Collections.reverse(result);
+        return result;
+    }
+    
+    private void helper(TreeNode root, int index) {
+        if (root == null) {
+            return;
+        }
+        if (index == result.size()) {
+            result.add(new ArrayList<>());
+        }
+        result.get(index).add(root.val);
+        index++;
+        helper(root.left, index);
+        helper(root.right, index);
     }
     
 }
