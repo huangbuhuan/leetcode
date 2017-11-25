@@ -8,8 +8,23 @@ package main.java.demo;
 public class Solution437 {
     
     public int pathSum(TreeNode root, int sum) {
-        
-        return 1;
+        if (root == null) {
+            return 0;
+        }
+        return dfs(root, sum) + pathSum(root.left, sum) + pathSum(root.right, sum);
+    }
+    
+    private int dfs(TreeNode root, int sum) {
+        int result = 0;
+        if (root == null) {
+            return result;
+        }
+        if (sum == root.val) {
+            result++;
+        }
+        result += dfs(root.left, sum - root.val);
+        result += dfs(root.right, sum - root.val);
+        return result;
     }
     
 }
