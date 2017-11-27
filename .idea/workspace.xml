@@ -42,13 +42,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution405.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution405.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution405.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding>
                 <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution572.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution572.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,7 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/demo/Solution665.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution637.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution693.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution485.java" />
@@ -159,6 +172,7 @@
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution720.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution594.java" />
         <option value="$PROJECT_DIR$/src/main/java/demo/Solution405.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demo/Solution572.java" />
       </list>
     </option>
   </component>
@@ -818,12 +832,12 @@
       <workItem from="1511432616892" duration="3811000" />
       <workItem from="1511527859643" duration="10421000" />
       <workItem from="1511672677080" duration="6788000" />
-      <workItem from="1511780569090" duration="27000" />
+      <workItem from="1511780569090" duration="71000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142105000" />
+    <option name="totallyTimeSpent" value="142149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1900" y="145" width="1440" height="873" extended-state="0" />
@@ -902,13 +916,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution292.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution349.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1295,6 +1302,18 @@
           <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
             <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution572.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
           </folding>
         </state>
       </provider>
