@@ -8,7 +8,15 @@ package main.java.demo;
 public class Solution70 {
     
     public int climbStairs(int n) {
-        return 1;
+        int one = 0;
+        int two = 1;
+        int sum = 0;
+        for (int i = 0; i < n; i++) {
+            sum = one + two;
+            one = two;
+            two = sum;
+        }
+        return sum;
     }
     
 }
