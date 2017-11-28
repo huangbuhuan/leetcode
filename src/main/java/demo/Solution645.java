@@ -7,5 +7,8 @@ package main.java.demo;
  */
 public class Solution645 {
     
+    public int[] findErrorNums(int[] nums) {
+        return nums;
+    }
     
 }

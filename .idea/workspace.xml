@@ -109,9 +109,12 @@
       <file leaf-file-name="Solution645.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution645.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-              <folding />
+            <state relative-caret-position="216">
+              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <folding>
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -881,12 +884,12 @@
       <workItem from="1511527859643" duration="10421000" />
       <workItem from="1511672677080" duration="6788000" />
       <workItem from="1511780569090" duration="4218000" />
-      <workItem from="1511870941956" duration="252000" />
+      <workItem from="1511870941956" duration="285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146548000" />
+    <option name="totallyTimeSpent" value="146581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="103" y="112" width="1440" height="873" extended-state="0" />
@@ -1371,9 +1374,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution645.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="216">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
