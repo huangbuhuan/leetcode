@@ -8,7 +8,19 @@ package main.java.demo;
 public class Solution53 {
     
     public int maxSubArray(int[] nums) {
-        return 1;
+        int sum = 0;
+        int maxSum = Integer.MIN_VALUE;
+        for (int i = 0; i < nums.length; i++) {
+            if (sum > 0) {
+                sum += nums[i];
+            } else {
+                sum = nums[i];
+            }
+            if (sum > maxSum) {
+                maxSum = sum;
+            }
+        }
+        return maxSum;
     }
-    
+
 }
