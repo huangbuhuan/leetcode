@@ -6,4 +6,9 @@ package main.java.demo;
  * @since 2017/11/30
  */
 public class Solution101 {
+    
+    public boolean isSymmetric(TreeNode root) {
+        return false;
+    }
+    
 }
