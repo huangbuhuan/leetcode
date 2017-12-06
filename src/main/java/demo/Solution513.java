@@ -7,8 +7,24 @@ package main.java.demo;
  */
 public class Solution513 {
     
+    private int result = -1;
+    private int dep = 1;
     public int findBottomLeftValue(TreeNode root) {
-        return 1;
+        helper(root, 1);
+        return result;
+    }
+    
+    private void helper(TreeNode root, int index) {
+        if (root == null) {
+            return;
+        }
+        if (index >= dep) {
+            dep = index;
+            result = root.val;
+        }
+        
+        helper(root.right, index + 1);
+        helper(root.left, index + 1);
     }
     
 }
