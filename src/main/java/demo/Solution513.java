@@ -14,6 +14,7 @@ public class Solution513 {
     private int dep = 1;
     
     public int findBottomLeftValue(TreeNode root) {
+        
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
         int size = queue.size();
