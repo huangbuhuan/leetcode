@@ -118,8 +118,8 @@
       <file leaf-file-name="Solution413.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution413.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="163">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -873,12 +873,12 @@
       <workItem from="1512643447100" duration="48000" />
       <workItem from="1512648974682" duration="986000" />
       <workItem from="1512904091954" duration="1164000" />
-      <workItem from="1514035653266" duration="788000" />
+      <workItem from="1514035653266" duration="1049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181800000" />
+    <option name="totallyTimeSpent" value="182061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -958,12 +958,6 @@
           <line>24</line>
           <properties />
           <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/demo/Solution413.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="22" />
@@ -1352,8 +1346,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution413.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="163">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding />
         </state>
       </provider>
