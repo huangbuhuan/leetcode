@@ -8,28 +8,15 @@ package main.java.demo;
 public class Solution238 {
     
     public int[] productExceptSelf(int[] nums) {
-        int product = 1;
-        int countOfZero = 0;
-        int index = -1;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != 0) {
-                product *= nums[i];
-            } else {
-                countOfZero++;
-                index = i;
-            }
-        }
         int[] result = new int[nums.length];
-        if (countOfZero == 1){
-            result[index] = product;
-        } else if (countOfZero == 0) {
-            for (int i = 0; i < result.length; i++) {
-                if (nums[i] == 0) {
-                    result[i] = product;
-                } else {
-                    result[i] = product / nums[i];
-                }
-            }
+        result[0] = 1;
+        for (int i = 1; i < nums.length; i++) {
+            result[i] = result[i -1] * nums[i - 1];
+        }
+        int tmp = 1;
+        for (int i = nums.length - 1; i >= 0; i--) {
+            result[i] = result[i] * tmp;
+            tmp *= nums[i];
         }
         return result;
     }
