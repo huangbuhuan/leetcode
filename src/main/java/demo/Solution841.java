@@ -12,26 +12,24 @@ public class Solution841 {
 		if (rooms.size() == 0 || rooms.size() == 1) {
 			return true;
 		}
-
-		List<Integer> keys = rooms.get(0);
-		rooms.set(0, new ArrayList<>());
-		keys.forEach(it -> find(rooms, it));
-		for (List<Integer> room : rooms) {
-			if (room.size() != 0) {
+		boolean[] result = new boolean[rooms.size()];
+		dfs(0, rooms, result);
+		for (boolean i : result) {
+			if (!i) {
 				return false;
 			}
 		}
 		return true;
 	}
 
-	private void find(List<List<Integer>> rooms, Integer key) {
-		List<Integer> keys = rooms.get(key);
-		if (keys.size() == 0) {
-			return;
+	private boolean dfs(int currRoom, List<List<Integer>> rooms, boolean[] result) {
+		result[currRoom] = true;
+		List<Integer> keys = rooms.get(currRoom);
+		for (Integer key : keys) {
+			if (!result[key] && !dfs(key, rooms, result)) {
+				return false;
+			}
 		}
-		rooms.set(key, new ArrayList<>());
-
-		keys.forEach(it -> find(rooms, it));
+		return true;
 	}
-
 }
