@@ -63,15 +63,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution1004.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="216">
+              <caret line="12" column="1" selection-start-line="6" selection-start-column="26" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="e#140#141#0" expanded="true" />
                 <element signature="e#164#165#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution529.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -116,15 +125,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
               <caret line="355" column="12" selection-start-line="355" selection-start-column="12" selection-end-line="355" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="337" column="25" selection-start-line="337" selection-start-column="25" selection-end-line="337" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -203,9 +203,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="561" />
-    <option name="y" value="412" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="68" />
+    <option name="y" value="175" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -596,15 +596,15 @@
       <workItem from="1546655949703" duration="3679000" />
       <workItem from="1547135315275" duration="612000" />
       <workItem from="1547220714915" duration="218000" />
-      <workItem from="1556206519230" duration="15600000" />
+      <workItem from="1556206519230" duration="16754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="249205000" />
+    <option name="totallyTimeSpent" value="250359000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="68" y="175" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21316166" />
@@ -681,13 +681,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution453.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution455.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1094,12 +1087,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution1004.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="216">
+          <caret line="12" column="1" selection-start-line="6" selection-start-column="26" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="e#140#141#0" expanded="true" />
             <element signature="e#164#165#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/Solution529.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
