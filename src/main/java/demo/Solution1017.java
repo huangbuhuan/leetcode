@@ -6,10 +6,20 @@ package main.java.demo;
  */
 public class Solution1017 {
 	public String baseNeg2(int N) {
-		if (N == 0 || N == 1) {
-			return String.valueOf(N);
+
+		StringBuilder sb = new StringBuilder();
+
+		while (N != 0) {
+			sb.insert(0, (N & 1));
+
+			N = -(N >> 1);
+			System.out.println(N);
 		}
 
-		return baseNeg2(-(N >> 1)) + (N & 1);
+		return sb.length() == 0 ? "0" : sb.toString();
+	}
+
+	public static void main(String[] args) {
+		new Solution1017().baseNeg2(2);
 	}
 }
