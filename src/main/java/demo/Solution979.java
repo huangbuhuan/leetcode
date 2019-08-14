@@ -9,7 +9,7 @@ public class Solution979 {
     int result = 0;
 
     public int distributeCoins(TreeNode root) {
-        dfs(root)
+        dfs(root);
         return result;
     }
 
